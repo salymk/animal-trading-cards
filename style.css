@@ -1,0 +1,45 @@
+span{
+    font-weight: bold;
+}
+
+ul{
+    list-style-type: none;
+    margin: 10pt; 
+    padding: 0;
+}
+
+p{
+    margin: 10pt;
+}
+
+h3{
+    border: 1px solid yellow;
+    padding: 10px;
+    background-color: aqua;
+
+}
+.interesting-fact{
+    font-style: italic;
+}
+
+.container{
+    flex-wrap: wrap;
+    display: flex;
+    width:100px;
+}
+
+.border{
+    border: 1px solid yellow;
+    margin: 10px;
+    padding: 5px;
+    background-color: aqua;
+}
+
+#shadow-border{
+    box-shadow: 7px 7px 5px gainsboro;
+    border: 1px solid yellow;
+}
+.padding{
+    margin: 10px;
+    border: 1px solid yellow;
+}
